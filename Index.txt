@@ -1,18 +1,18 @@
 ## Index of source code examples:
 
-\Blackout Sensitive Info on screen video
-\Capture From Entire Screen into WEBM video
-\Capture screen video and Add Time Stamp
-\Pause And Resume screen video recording
-\record screen video from Command line console
-\Record screen video From Entire Screen
-\Record screen video From Given Region
-\Record screen video From Given Window
-\Record screen video from Region Around Mouse
-\Record screen video From Separate Thread
-\Record video from Web Cam in Full Screen Only
-\Record video with Webcamera Overlay
-\Set Low FPS To Get Min File Size for screen video
-\Set Video and Audio Settings for screen video
+\Blackout Sensitive Info on Screen Video
+\Capture From Entire Screen into WEBM Video
+\Capture Screen Video and Add Time Stamp
+\Pause And Resume Screen Video Recording
+\Record Screen Video from Command Line Console
+\Record Screen Video From Entire Screen
+\Record Screen Video From Given Region
+\Record Screen Video From Given Window
+\Record Screen Video from Region Around Mouse
+\Record Screen Video From Separate Thread
+\Record Video from Web Cam in Full Screen Only
+\Record Video with Webcamera Overlay
+\Set Low FPS To Get Min File Size for Screen Video
+\Set Video and Audio Settings for Screen Video
 \Take Screenshots During Recording
-\Use Video Quality Profiles for screen recording
+\Use Video Quality Profiles for Screen Recording
