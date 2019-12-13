@@ -3,6 +3,8 @@
 \Blackout Sensitive Info on Screen Video
 \Capture From Entire Screen into WEBM Video
 \Capture Screen Video and Add Time Stamp
+\Merge AVI Video Files
+\Merge WMV Video Files
 \Pause And Resume Screen Video Recording
 \Record Screen Video from Command Line Console
 \Record Screen Video From Entire Screen
